@@ -1,2 +1,0 @@
-# training
-some training projects
