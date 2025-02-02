@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Niveau Grotesk';
+    src: local('Niveau Grotesk Medium'), local('Niveau-Grotesk-Medium'),
+        url('NiveauGroteskMedium.woff2') format('woff2'),
+        url('NiveauGroteskMedium.woff') format('woff'),
+        url('NiveauGroteskMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
