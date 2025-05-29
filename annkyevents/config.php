@@ -3,7 +3,7 @@
 $host = 'localhost';
 $dbname = 'annkyeve_event_management';
 $username = 'annkyeve_annky';
-$password = 'Vehxbr77@';
+$password = ПАРОЛЬ;
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
