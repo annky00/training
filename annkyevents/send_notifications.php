@@ -62,7 +62,7 @@ try {
                 $mail->Host = 'uashared42.twinservers.net';
                 $mail->SMTPAuth = true;
                 $mail->Username = 'info@annkyevents.pp.ua';
-                $mail->Password = 'Vehxbr77@';
+                $mail->Password = ПАРОЛЬ;
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
                 $mail->Port = 465;
 
